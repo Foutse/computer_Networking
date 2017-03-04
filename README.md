@@ -1,4 +1,4 @@
-#AIMS Networking/Security Project 1 – Due Friday 10 Feb 2017
+#AIMS Networking/Security Project 1 
 
 You need to build the following network in GNS3:
 
